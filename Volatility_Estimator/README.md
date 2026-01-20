@@ -13,7 +13,6 @@ Développer et comparer plusieurs estimateurs de volatilité pour démontrer que
 ### 1. Volatilité historique classique (Close-to-Close)
 
 L'estimateur le plus simple, basé uniquement sur les rendements logarithmiques des prix de clôture  : 
-
 $$\sigma_{CC} = \sqrt{\frac{1}{n-1} \sum_{i=1}^{n} (r_i - \bar{r})^2}$$
 
 où $r_i = \ln(C_i / C_{i-1})$
