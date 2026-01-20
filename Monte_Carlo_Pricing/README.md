@@ -47,11 +47,11 @@ Payoff = $$\( S_T - \min(S) \)$$ (achat au plus bas, vente au final)
 ### Génération des trajectoires
 Simulation des chemins du sous-jacent selon le modèle de Black-Scholes  :
 - **Drift** : $$\( (r - 0.5\sigma^2)dt \)$$
-- **Diffusion** : $$\ \sigma\sqrt{dt} \cdot Z \$$ où $$\Z \sim \mathcal{N}(0,1) \$$
+- **Diffusion** : $$\ \sigma\sqrt{dt} \cdot Z \$$ où $$\ Z \sim \mathcal{N}(0,1) \$$
 
 ### Techniques de réduction de variance
 
-**Variables antithétiques** : Génération de trajectoires avec $$\( Z \)$$ et $$\( -Z \)$$ pour réduire la variance de l'estimateur 
+**Variables antithétiques** : Génération de trajectoires avec $$\Z\$$ et $$\-Z\$$ pour réduire la variance de l'estimateur 
 
 **Variables de contrôle** : Utilisation d'un call européen (dont le prix analytique est connu) comme variable de contrôle pour améliorer la précision du pricing d'options exotiques 
 
