@@ -113,4 +113,6 @@ Sur l’ensemble du repo, les technologies principales sont :
 
 ***
 
-Si tu veux, la prochaine étape peut être de structurer un `requirements.txt` et un petit index dans le README avec des liens internes vers chaque sous‑projet.
+##Contact
+Mail : theo.eghiazarian@edhec.com
+LinkedIn : https://www.linkedin.com/in/th%C3%A9o-eghiazarian-88623030b/
