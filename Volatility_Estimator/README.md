@@ -22,8 +22,7 @@ où $r_i = \ln(C_i / C_{i-1})$
 
 ### 2. Estimateur de Parkinson (High-Low)
 
-Utilise l'amplitude High-Low pour capturer la volatilité intraday  : 
-$$\sigma_{P} = \sqrt{\frac{1}{4n\ln(2)} \sum_{i=1}^{n} [\ln(H_i/L_i)]^2}$$
+Utilise l'amplitude High-Low pour capturer la volatilité intraday :  $$\sigma_{P} = \sqrt{\frac{1}{4n\ln(2)} \sum_{i=1}^{n} [\ln(H_i/L_i)]^2}$$
 
 **Efficacité** : ~5 fois plus efficace que Close-to-Close  
 **Hypothèse** : Pas de drift, pas de gap d'ouverture
