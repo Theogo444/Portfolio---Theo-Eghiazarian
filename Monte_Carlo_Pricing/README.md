@@ -31,7 +31,7 @@ $$
 **Put européen** : Payoff = $$\max(K - S_T, 0)\$$ 
 
 ### 2. Options asiatiques (Average Price)
-Payoff basé sur la moyenne arithmétique du sous-jacent : $$ \max(\bar{S} - K, 0) \$$ 
+Payoff basé sur la moyenne arithmétique du sous-jacent : $$\max(\bar{S} - K, 0)\$$ 
 Moins chères que les options vanilles car la moyenne réduit la volatilité.
 
 ### 3. Options à barrières
