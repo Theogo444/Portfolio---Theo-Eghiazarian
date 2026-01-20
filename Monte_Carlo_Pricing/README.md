@@ -18,16 +18,16 @@ La méthode de Monte Carlo, introduite par Boyle en 1977 pour le pricing de dér
 ### Formule générale
 Pour toute option, le prix théorique à \( t=0 \) est  : 
 
-$
+$$
 \text{Prix}(t=0) = e^{-rT} \times \mathbb{E}[\text{Payoff}(T)]
-$
+$$
 
 
 ## Types d'options pricées
 
 ### 1. Options européennes
-**Call européen** : Payoff = \( \max(S_T - K, 0) \) 
-**Put européen** : Payoff = \( \max(K - S_T, 0) \) 
+**Call européen** : Payoff = $$\( \max(S_T - K, 0) \)$$
+**Put européen** : Payoff = $$\( \max(K - S_T, 0) \)$$ 
 
 ### 2. Options asiatiques (Average Price)
 Payoff basé sur la moyenne arithmétique du sous-jacent : \( \max(\bar{S} - K, 0) \) 
