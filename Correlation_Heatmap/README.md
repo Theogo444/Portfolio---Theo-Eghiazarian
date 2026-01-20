@@ -77,7 +77,7 @@ Correlation_Heatmap.ipynb    # Notebook principal avec analyses et visualisation
 
 ##  Contact
 
-Pour plus d'informations sur ce projet, n'hésitez pas à me contacter via theo.eghiazarian@edhec.com ou https://www.linkedin.com/in/th%C3%A9o-eghiazarian-88623030b/.
+Pour plus d'informations sur ce projet, n'hésitez pas à me contacter via theo.eghiazarian@edhec.com ou https://www.linkedin.com/in/th%C3%A9o-eghiazarian-88623030b/
 
 ***
 
