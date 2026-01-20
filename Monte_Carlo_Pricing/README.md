@@ -70,7 +70,7 @@ Simulation des chemins du sous-jacent selon le modèle de Black-Scholes  :
 - **Plotly** : Graphiques interactifs
 - **yfinance** : Récupération de données de marché (optionnel)
 
-## 📈 Résultats
+## Résultats
 
 Exemple de pricing avec les paramètres suivants  : 
 - Prix initial : S₀ = 100
