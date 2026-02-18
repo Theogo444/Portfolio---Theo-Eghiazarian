@@ -68,3 +68,11 @@ Feature Importance RF : vol_ewma(42%) > lags(30%)
 EWMA > Rolling : Réagit aux changements de régime
 Corrélations historiques stables → Vols dynamiques
 ```
+
+## Contact
+
+Pour plus d'informations sur ce projet, n'hésitez pas à me contacter via theo.eghiazarian@edhec.com ou https://www.linkedin.com/in/th%C3%A9o-eghiazarian-88623030b/.
+
+***
+
+*Dernière mise à jour : Février 2026*
