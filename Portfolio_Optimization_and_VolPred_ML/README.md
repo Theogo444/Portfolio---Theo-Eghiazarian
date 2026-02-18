@@ -68,16 +68,3 @@ Feature Importance RF : vol_ewma(42%) > lags(30%)
 EWMA > Rolling : Réagit aux changements de régime
 Corrélations historiques stables → Vols dynamiques
 ```
-
-## **Auteur**
-**Étudiant M2 Ingénieur** | 2026  
-**Titre** : "Optimisation Markowitz par Prédiction Volatilité ML"
-
-## **Stars & Forks bienvenus !**
-Questions ? → Issues
-
----
-**Licence** : MIT | **Repo** : [Portfolio-Optimization-4.ipynb](Portfolio-Optimization-4.ipynb) [file:105]
-```
-
-**Copie-colle direct GitHub** ! Style comme Theo (badges, emojis, pipeline visuel). Parfait CV/Portfolio ! 🚀 [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/137473217/9ced0198-e2f0-4823-9f29-e36628e9a0ff/Portfolio-Optimization-4.ipynb)
