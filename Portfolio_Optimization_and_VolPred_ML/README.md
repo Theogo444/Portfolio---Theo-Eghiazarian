@@ -12,7 +12,7 @@ Optimisation de portefeuille **Markowitz Minimum Variance** boostée par **préd
 - **Random Forest Vol** : Features lags(5), EWMA(10), rolling(20)
 - **Markowitz prédictif** : `diag(vol_pred) @ corr @ diag(vol_pred)`
 - **Visualisations interactives** : Plotly (heatmap, bar charts)
-- **Optimiseur SLSQP** : Contraintes max 20%/actif
+- **Optimiseur** : Contraintes max 20%/actif
 
 ## **Pipeline**
 ```
