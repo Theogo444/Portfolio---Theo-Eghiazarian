@@ -1,6 +1,6 @@
 # Fashion MNIST Classification - Deep Learning avec TensorFlow
 
-## Description
+##  Description
 
 Projet de Machine Learning implémentant un réseau de neurones profond (Deep Neural Network) pour la classification d'images de vêtements issues du dataset Fashion MNIST. Ce projet démontre l'utilisation de TensorFlow/Keras pour résoudre un problème de classification multi-classes sur des images en niveaux de gris. 
 
