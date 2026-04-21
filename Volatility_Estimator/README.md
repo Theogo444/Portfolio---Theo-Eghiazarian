@@ -18,7 +18,7 @@ $$\sigma_{hist} = \sqrt{\frac{1}{n-1} \sum_{i=1}^{n} (r_i - \bar{r})^2} \times \
 
 où $r_i = \ln(C_i / C_{i-1})$
 
-**Avantages** : Simple à calculer, intuitive, nécessite uniquement les prix de clôture 
+**Avantages** : Simple à calculer, intuitive, nécessite uniquement les prix de clôture  
 **Inconvénients** : Tous les rendements ont le même poids, lente à réagir aux changements  
 **Usage** : Benchmark de référence pour comparaison
 
