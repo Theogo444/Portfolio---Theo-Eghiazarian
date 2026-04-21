@@ -1,6 +1,6 @@
 # Monte Carlo Pricing - Options Financières
 
-## Description
+##  Description
 
 Projet de finance quantitative implémentant la méthode de Monte Carlo pour le pricing de produits dérivés complexes. Ce projet explore les simulations numériques pour évaluer différents types d'options pour lesquelles aucune formule analytique simple n'existe. 
 
