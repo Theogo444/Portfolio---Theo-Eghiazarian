@@ -2,7 +2,7 @@
 
 ## Description
 
-Projet d'analyse quantitative visualisant les corrélations entre différentes classes d'actifs financiers (actions, indices, devises, matières premières et taux d'intérêt). Ce projet utilise des données historiques depuis 2020 pour identifier les relations entre actifs et leur évolution dans le temps. 
+Projet d'analyse quantitative pour visualiser les corrélations entre différentes classes d'actifs financiers (actions, indices, devises, matières premières et taux d'intérêt). Ce projet utilise des données historiques depuis 2020 pour identifier les relations entre actifs et leur évolution dans le temps. 
 
 ##  Objectif
 
