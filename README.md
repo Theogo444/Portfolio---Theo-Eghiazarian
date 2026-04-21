@@ -1,4 +1,4 @@
-# Portfolio - Théo Eghiazarian
+# Portfolio - Théo Eghiazarian 
 
 Ce portfolio regroupe plusieurs projets de data science, de finance quantitative et de machine learning couvrant un spectre allant de la modélisation de volatilité au deep learning sur images et à la data science sportive NBA .  
 
